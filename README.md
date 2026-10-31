@@ -36,7 +36,7 @@
 </div>
 
 <!-- badges:start -->
-[![Stars](https://img.shields.io/github/stars/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/commits/master)
+[![Stars](https://img.shields.io/github/stars/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/commits/master) [![License](https://img.shields.io/github/license/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/blob/master/LICENSE)
 <!-- badges:end -->
 
 <hr>
