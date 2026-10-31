@@ -1,4 +1,8 @@
 <div align="center" markdown="1">
+
+<!-- badges:start -->
+[![Stars](https://img.shields.io/github/stars/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/commits/master)
+<!-- badges:end -->
   <sup>Special thanks to:</sup>
   <br>
   <br>
