@@ -1,8 +1,5 @@
 <div align="center" markdown="1">
 
-<!-- badges:start -->
-[![Stars](https://img.shields.io/github/stars/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/commits/master)
-<!-- badges:end -->
   <sup>Special thanks to:</sup>
   <br>
   <br>
@@ -37,6 +34,11 @@
   <br><br>
 
 </div>
+
+<!-- badges:start -->
+[![Stars](https://img.shields.io/github/stars/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/awesome-mac?style=flat-square)](https://github.com/monkey-sking/awesome-mac/commits/master)
+<!-- badges:end -->
+
 <hr>
 
 <p style="display: inline_block">
@@ -917,7 +919,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Wayfinder](https://wayfinder-ai.pages.dev/) - Local-first visual voyage map for preserving Codex and Claude Code sessions, branches, failures, decisions, and file changes. [![Open-Source Software][OSS Icon]](https://github.com/StayCurious-Xuan/wayfinder) ![Freeware][Freeware Icon]
 * [Yardlet](https://yardlet.app) - Open-source app for running Codex, Claude Code and other coding agent CLIs side by side in one window, using each agent's own sign-in and session history. [![Open-Source Software][OSS Icon]](https://github.com/zzunkie/yardlet) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 
-
 ## Communication
 
 ### Collaboration and Team Tools
@@ -1632,7 +1633,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [xScope](https://xscopeapp.com/) - Toolset for measuring, inspecting, and testing on-screen layouts and graphics.
 * [Z](https://github.com/rupa/z) - Jump to frequently used directories by typing part of the path.
 
-
 ### Window Management
 
 * [AeroSpace](https://github.com/nikitabobko/AeroSpace) - i3-like tiling window manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/nikitabobko/AeroSpace) ![Freeware][Freeware Icon]
@@ -1891,7 +1891,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software"
 [Native Icon]: https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App"
 [awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List"
-
 
 <!--idoc:config:
 title: Awesome Mac application sharing recommendation -
